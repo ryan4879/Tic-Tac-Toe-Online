@@ -1,0 +1,5 @@
+{
+  "name": "Tic Tac Toe Online",
+  "description": "An interactive Tic-Tac-Toe game that allows users to play with friends or other players online. It features a room system for creating and joining games, and a point-based scoring system to track wins.",
+  "requestFramePermissions": []
+}
